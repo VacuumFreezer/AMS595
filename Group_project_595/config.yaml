@@ -1,0 +1,13 @@
+# Configuration for training
+
+n_epoches: 5
+
+batch_size: 64
+
+lr: 0.005
+
+patience: 5
+
+weight_decay: 1e-5
+
+criterion: CrossEntropyLoss
