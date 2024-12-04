@@ -8,6 +8,6 @@ lr: 0.005
 
 patience: 5
 
-weight_decay: 1e-5
+weight_decay: 1e-6
 
 criterion: CrossEntropyLoss
